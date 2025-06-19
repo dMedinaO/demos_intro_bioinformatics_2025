@@ -1,0 +1,4 @@
+nombre,edad,comuna,mayor de edad,edad al cuadrado,z_score,grupo_edad,edad_modificada
+Ana,30,Santiago,True,900,-0.26726124191242456,Adulto,30.0
+Luis,25,Concepción,True,625,-1.0690449676496978,Adulto,27.500000000000004
+Pedro,40,Concepción,True,1600,1.3363062095621219,Adulto,40.0
